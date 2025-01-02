@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <author>Roman Inflianskas</author>
+                <title>Public Domain Poems and Songs</title>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="free">
+                    <licence>Published under a <ref
+                            target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                        Commons
+                            Zero 1.0</ref>.</licence>
+                </availability>
+                <date>2025-01-05</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Original poems and songs by Roman Inflianskas.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">Deutsch</language>
+                <language ident="en">English</language>
+                <language ident="fi">Suomi</language>
+                <language ident="ru">Русский</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Essen</head>
+                <note><hi rend="italic">Nachahmung von Alexander Blok</hi></note>
+                <lg type="stanza">
+                    <l>Eis, Apfelsaft, Spinat, Gemüse,</l>
+                    <l>Mit Zucker und Zitronen Tee,</l>
+                    <l>Salat mit Fisch, Rapsöl, Meduse.</l>
+                    <l>Ich habe keine Idee...</l>
+                </lg>
+                <lg type="stanza">
+                    <l>...Warum? Warum ich brauche Essen?</l>
+                    <l>Ich habe satt. Ich habe satt.</l>
+                    <l>Ich komme weider, habe diese</l>
+                    <l>Gemüse, Apfelsaft, Spinat.</l>
+                </lg>
+                <date when="2017-01-23">
+                    <hi rend="italic">2017-01-23</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Сингулярность</head>
+                <lg type="stanza">
+                    <l>Пусть быстротечно время, неизбежна старость,</l>
+                    <l>Порою тщетно всё и монотонны дни,</l>
+                    <l>Не торопись считать, сколько осталось,</l>
+                    <l>Чуть-чуть вперёд ты лучше посмотри.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Математический феномен — сингулярность<ref target="#note0">
+                            <hi rend="superscript">0</hi>
+                        </ref>,</l>
+                    <l>Курцвейлом<ref target="#note1">
+                            <hi rend="superscript">1</hi>
+                        </ref> применён был
+                        и к Земле —</l>
+                    <l>Земляне скоро обновят ментальность:</l>
+                    <l>Поставят все по чипу в голове.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Разгон<ref target="#note2">
+                            <hi rend="superscript">2</hi>
+                        </ref> мозгов —
+                        прекрасное занятье,</l>
+                    <l>А телу б мониторинг не мешал.</l>
+                    <l>Мы — на краю прогресса!.. Вот ведь счастье:</l>
+                    <l>Ландау<ref target="#note3">
+                            <hi rend="superscript">3</hi>
+                        </ref> за секунду
+                        прорешал!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Болезни отступили все на вечность.</l>
+                    <l>Ещё бы! Наноботы<ref target="#note4">
+                            <hi rend="superscript">4</hi>
+                        </ref> тут и там.</l>
+                    <l>Вот вам, друзья, — сверхчеловечность:</l>
+                    <l>+100500<ref target="#note5">
+                            <hi rend="superscript">5</hi>
+                        </ref> лет к телу
+                        (и мозгам)!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Разведали все уголки вселенной,</l>
+                    <l>Разбили все бозоны<ref target="#note6">
+                            <hi rend="superscript">6</hi>
+                        </ref> на куски,</l>
+                    <l>Теории всего<ref target="#note7">
+                            <hi rend="superscript">7</hi>
+                        </ref> добились
+                        офигенной...</l>
+                    <l>И даже так не умерли с тоски!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Конечно, ведь всего прикольней,</l>
+                    <l>Во славу Бострома<ref target="#note8">
+                            <hi rend="superscript">8</hi>
+                        </ref> вселенные
+                        плодить:</l>
+                    <l>Возьмём коэффициенты<ref target="#note9">
+                            <hi rend="superscript">9</hi>
+                        </ref> произвольней
+                        —</l>
+                    <l>Вложенцы<ref target="#note10">
+                            <hi rend="superscript">10</hi>
+                        </ref> будут нас
+                        боготворить!..</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Они, однако, тоже поумнеют,</l>
+                    <l>Направят к дальним звёздам корабли,</l>
+                    <l>Вселенные свои создать сумеют...</l>
+                    <l>Вот это сингулярность, чёрт возьми!</l>
+                </lg>
+                <date when="2021-04-09">
+                    <hi rend="italic">2021-04-09</hi>
+                </date>
+                <div type="notes">
+                    <note id="note0"><hi rend="superscript">0</hi> Математическая сингулярность
+                    (особенность) — точка, в которой математическая функция стремится к
+                    бесконечности или имеет какие-либо иные нерегулярности поведения.</note>
+                    <note
+                        id="note1"><hi rend="superscript">1</hi> Рэймонд Курцвейл — известный
+                    американский изобретатель и футуролог; дал обоснование технологической
+                    сингулярности — феноменально быстрого научно-технического прогресса, основанного
+                    на мощном искусственном интеллекте (превосходящем человеческий) и киборгизации
+                    людей.</note>
+                    <note id="note2"><hi rend="superscript">2</hi> Разгон компьютеров —
+                    повышение быстродействия компонентов компьютера за счёт эксплуатации их в
+                    форсированных (нештатных) режимах работы.</note>
+                    <note id="note3"><hi
+                            rend="superscript">3</hi> Лев Давидович Ландау — советский
+                    физик-теоретик, основатель научной школы, академик АН СССР, лауреат Нобелевской
+                    премии по физике 1962 года, автор задачника. Здесь подразумевается задачник его
+                    авторства.</note>
+                    <note id="note4"><hi rend="superscript">4</hi> Наноро́боты или
+                    нанобо́ты — роботы, размером сопоставимые с молекулой (менее 100 нм), обладающие
+                    функциями движения, обработки и передачи информации, исполнения программ; первое
+                    полезное применение наномашин, если они появятся, планируется в медицинских
+                    технологиях, где они могут быть использованы для выявления и уничтожения раковых
+                    клеток.</note>
+                    <note id="note5"><hi rend="superscript">5</hi> 100500
+                    (интернет-мем, жаргон; читается как "стопицот") — очень много.</note>
+                    <note
+                        id="note6"><hi rend="superscript">6</hi> Бозон — частица с нулевым или
+                    целочисленным спином.</note>
+                    <note id="note7"><hi rend="superscript">7</hi>
+                    Теория всего — гипотетическая объединённая физико-математическая теория,
+                    описывающая все известные фундаментальные взаимодействия.</note>
+                    <note id="note8"><hi
+                            rend="superscript">8</hi> Ник Бостром — философ, профессор Оксфордского
+                    университета, известный своими работами об антропном принципе; создатель статьи
+                    "Доказательство симуляции", являющейся ключевой в философском положении о том,
+                    что реальность является симуляцией.</note>
+                    <note id="note9"><hi
+                            rend="superscript">9</hi> Имеются в виду фундаментальные физические
+                    постоянные — постоянные величины, входящие в уравнения, описывающие
+                    фундаментальные законы природы и свойства материи; фундаментальные физические
+                    постоянные возникают в теоретических моделях наблюдаемых явлений в виде
+                    универсальных коэффициентов в соответствующих математических выражениях.</note>
+                    <note
+                        id="note10"><hi rend="superscript">10</hi> Вложенцы (неологизм) — жители
+                    вселенных, симулируемых (вложенных) в нашу вселенную.</note>
+
+                    Примечания составлены по материалам из Википедии — свободной энциклопедии и Викисловаря —
+                    многоязычного открытого словаря. </div>
+            </div>
+            <div type="poem">
+                <head>Я</head>
+                <lg type="stanza">
+                    <l>Я программист и инженер, стихами увлекаюсь,</l>
+                    <l>Себя за несколько минут раскрыть я постараюсь.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Мне 27, зовут Роман,</l>
+                    <l>Ни разу в жизни не был пьян,</l>
+                    <l>Литовский — мой язык родной,</l>
+                    <l>Люблю ходить я с бородой.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Скажу я прямо, без прикрас,</l>
+                    <l>Что город, где живу сейчас,</l>
+                    <l>Похож на Питер по погоде,</l>
+                    <l>Однако лучше он в природе,</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Тот город Хельсинки зовут,</l>
+                    <l>Не парясь люди в нём живут.</l>
+                    <l>Там дуют сильные ветра —</l>
+                    <l>Свыкаюсь года полтора.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Внезапно полюбил природу,</l>
+                    <l>И, невзирая на погоду,</l>
+                    <l>По парку (с домом рядом) я,</l>
+                    <l>Гуляю, ноги не щадя.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Ещё мне нравится свобода,</l>
+                    <l>И я в любое время года</l>
+                    <l>Толкаю ввысь свободный код,</l>
+                    <l>Снимая часть чужих забот.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Теперь работаю я в Aiven,</l>
+                    <l>Баз данных ход чтоб был исправен.</l>
+                    <l>А серверов у нас сейчас</l>
+                    <l>Десятки тысяч пашут враз.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>На сём я завершу рассказ,</l>
+                    <l>Послушаю тебя сейчас! :-)</l>
+                </lg>
+                <date when="2021-06-10">
+                    <hi rend="italic">2021-06-10</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>BLINIt</head>
+                <lg type="stanza">
+                    <l>Я выпил чай, съел блин и навернул борща,</l>
+                    <l>Конечно, всё в ином порядке.</l>
+                    <l>Борща другого даже не ища,</l>
+                    <l>Питаюсь в BLINIt я на постоянке.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>С Сенько семьёй и Ниной я треплюсь</l>
+                    <l>О жизни, эмиграции, природе...</l>
+                    <l>Я иногда грущу, а иногда смеюсь,</l>
+                    <l>А им не до того — они в работе.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Я очень рад: в Финляндии живя,</l>
+                    <l>Могу здесь пообщаться и поесть!</l>
+                    <l>Спасибо вам за всё, мои друзья!..</l>
+                    <l>Я знаю: город будет, саду цвесть!</l>
+                </lg>
+                <date when="2021-10-03">
+                    <hi rend="italic">2021-10-03</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>День рождения Светы и света</head>
+                <lg type="stanza">
+                    <l>Сколько нужно программистов,</l>
+                    <l>Чтобы сделать Свете свет?</l>
+                    <l>Блиц-ответ от юмористов:</l>
+                    <l>Два в десятой!.. Да, но нет.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Вам нужны: unique-эстонец,</l>
+                    <l>Программист AI / бармен,</l>
+                    <l>Программист-стихо-ха-творец,</l>
+                    <l>Пи-эйч-ди-шник-джентльмен,</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Толстый стол для ноутбука,</l>
+                    <l>Деревянный табурет,</l>
+                    <l>На стене гирлянды штука,</l>
+                    <l>Не включать, конечно, свет,</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Соблюденье равновесья,</l>
+                    <l>Нашей Светы глазомер,</l>
+                    <l>Также Йепа наставленья,</l>
+                    <l>Чтоб в стихе попасть в размер...</l>
+                </lg>
+                <lg type="stanza">
+                    <l>...Нужно вам совсем немного,</l>
+                    <l>Чтобы сделать Свете свет,</l>
+                    <l>Это проще ведь простого!</l>
+                    <l>Мой закончился ответ.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Освещая тьму тумана</l>
+                    <l>Счастьем, привалившим ей,</l>
+                    <l>Ярко светится Светлана,</l>
+                    <l>Согревая всех друзей.</l>
+                </lg>
+                <date when="2022-10-01">
+                    <hi rend="italic">2022-10-01</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Barber Adam</head>
+                <lg type="stanza">
+                    <l>He'll welcome you warmly in front of the door,</l>
+                    <l>Will offer you tea, coffee, water,</l>
+                    <l>Will ask you to sit in a luminous spot,</l>
+                    <l>Will drape you in white, long, soft cover.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>"Make classic" — "No problem! Some style maybe?" —</l>
+                    <l>"Ah, yeah, add some style... Thank <hi rend="italic">you</hi>!".</l>
+                    <l>He'll armed with sharp scissors, spray, razor, and cream,</l>
+                    <l>Then gently and smoothly will make you renewed.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Relaxing massage during washing, then gel —</l>
+                    <l>He cares for clients for sure.</l>
+                    <l>He's Adam. He's cool and I wish him good health,</l>
+                    <l>Have fun, please, keep rocking, stay pure!</l>
+                </lg>
+                <date when="2023-10-22">
+                    <hi rend="italic">2023-10-22</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Волшебство новогодней ночи в Финляндии</head>
+                <note><hi rend="italic">Посвящается племянницам</hi></note>
+                <lg type="stanza">
+                    <l>В лесу родилась ёлочка,</l>
+                    <l>В лесу она росла,</l>
+                    <l>В лесу её украсили,</l>
+                    <l>Чтоб радость принесла!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Стоит она нарядная,</l>
+                    <l>На ней снежок лежит,</l>
+                    <l>А где-то над Финляндией,</l>
+                    <l>Волшебник к нам летит,</l>
+                </lg>
+                <lg type="stanza">
+                    <l>В санях с восьмью оленями,</l>
+                    <l>С огромнейшим мешком,</l>
+                    <l>Чтоб в года день рождения,</l>
+                    <l>Наполнить счастьем дом.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>И рады дети все кругом,</l>
+                    <l>Кричат ему: "Hei! Hei!"</l>
+                    <l>Зовётся Joulupukki он,</l>
+                    <l>Он любит всех людей!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Всем-всем привет передаёт,</l>
+                    <l>Желает всем добра,</l>
+                    <l>Подарки, что нам принесёт,</l>
+                    <l>Мы все найдём с утра!</l>
+                </lg>
+                <date when="2023-12-31">
+                    <hi rend="italic">2023-12-31</hi>
+                </date>
+            </div>
+            <div type="song">
+                <head>Поход за лыжами</head>
+                <note><hi rend="italic">Песня</hi></note>
+                <lg type="stanza">
+                    <l>Вспомнить детство я зимой решил,</l>
+                    <l>В магазин за парой лыж я поспешил.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Девять магазинов обошёл,</l>
+                    <l>Ничего я так и не нашёл.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Рост большой... И худой...</l>
+                    <l>Ну, кому же нужен лыжник вот такой?..</l>
+                </lg>
+                <lg>
+                    <l><hi rend="italic">Вздох</hi></l>
+                </lg>
+                <lg type="stanza">
+                    <l>В магазин десятый лесом я пошёл,</l>
+                    <l>Наконец-то пару лыж себе нашёл!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>И теперь лыжник я!</l>
+                    <l>Не отчаивайтесь никогда, друзья!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>В новых лыжах по лесу помчался</l>
+                    <l>И лыжнёю я был восхищён!</l>
+                    <l>Хорошо с ветерком покатался,</l>
+                    <l>И зовёт меня кататься лес ещё!</l>
+                </lg>
+                <lg>
+                    <l>Ура!</l>
+                </lg>
+                <date when="2024-01-18">
+                    <hi rend="italic">2024-01-18</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Это Финляндия!</head>
+                <note><hi rend="italic">Посвящается племянницам</hi></note>
+                <lg type="stanza">
+                    <l>"Мам, смотри!" — зовёт Марина.</l>
+                    <l>Чу́дная видна картина!</l>
+                    <l>И Алина, открыв рот,</l>
+                    <l>Озирает поворот...</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Светит солнце, снег лежит,</l>
+                    <l>И в одних трусах бежит</l>
+                    <l>Чрез сугробы напрямик</l>
+                    <l>К морю красный весь мужик.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Изумлению девчонок</l>
+                    <l>Удивлён финн-оленёнок:</l>
+                    <l>Что девчонкам необычно —</l>
+                    <l>Для него вполне привычно.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Не такое повидавший</l>
+                    <l>И ни капли не уставший,</l>
+                    <l>Едет на работу дед,</l>
+                    <l>В горку мча велосипед.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Поспешили к горке дети,</l>
+                    <l>Снег лежит и солнце светит,</l>
+                    <l>Слышат пенье снегиря:</l>
+                    <l>"Вы в Финляндии, друзья!"</l>
+                </lg>
+                <date when="2024-01-23">
+                    <hi rend="italic">2024-01-23</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Пловец</head>
+                <lg type="stanza">
+                    <l>Раздвигая толщу вод руками,</l>
+                    <l>Увлекая волны за собой,</l>
+                    <l>Кратко над поверхностью вдыхая,</l>
+                    <l>Обретает он в воде покой.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Там ему неведомо волненье,</l>
+                    <l>Отголоски буден не слышны,</l>
+                    <l>Сердца лишь доносится биение,</l>
+                    <l>Что хранит оплот его души.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Вновь и вновь дыханье открывая,</l>
+                    <l>Сам себе сдаваться не спешит...</l>
+                    <l>И летит до крайнего он края —</l>
+                    <l>Там лишь остановку совершит.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Выйдет он спокойный и счастливый,</l>
+                    <l>Подойдёт к огромному окну,</l>
+                    <l>В темноте заметит свет красивый —</l>
+                    <l>И увидит полную луну.</l>
+                </lg>
+                <date when="2024-01-25">
+                    <hi rend="italic">2024-01-25</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Minä</head>
+                <lg type="stanza">
+                    <l>Olen pitkä, kävelen paljon,</l>
+                    <l>Olen liettualainen,</l>
+                    <l>Minun partani on pieni,</l>
+                    <l>Minulla on isoveli,</l>
+                    <l>Luen kirja, joskus uin,</l>
+                    <l>Helsinkiin rakastuin,</l>
+                    <l>Syön vegaaniruoka,</l>
+                    <l>Tunnen olevani poika,</l>
+                    <l>Kirjotan koodaan hyvin,</l>
+                    <l>Runo päättyy ja... no niin!</l>
+                </lg>
+                <date when="2024-03-14">
+                    <hi rend="italic">2024-03-14</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Suku</head>
+                <note><hi rend="italic">Посвящается большой семье</hi></note>
+                <lg type="stanza">
+                    <l>Alina ja Marina ovat viisi voutta vanha.</l>
+                    <l>He ajavat nyt pyörällä, he ovat reippaat aina.</l>
+                    <l>Minun isoveli on Vitas; hän on tässä.</l>
+                    <l>Hän on heidän isänsä, hän ryntää heidän kanssa.</l>
+                    <l>Hänellä on hiljainen vaimo Katariina.</l>
+                    <l>Katja lauluu kaunin laulun, se on "Rakkaustarina".</l>
+                    <l>Minun äiti Ira ja minun isä Slava</l>
+                    <l>Tullevat altaalta; kävely on sulava.</l>
+                    <l>Minun isoäiti katso tyttärentyttärentytärtään</l>
+                    <l>Ja lausuu hyviä runoja, hänen nimensä on Julia.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Minä tapaan kaikki, tulin Moldovaan.</l>
+                    <l>"Moikka!" — kiljun minä. Ääniä hurraan!</l>
+                </lg>
+                <date when="2024-03-21">
+                    <hi rend="italic">2024-03-21</hi>
+                </date>
+            </div>
+            <div type="song">
+                <head>Снег в середине весны</head>
+                <note><hi rend="italic">На мотив песни "Крылатые качели"</hi></note>
+                <lg type="stanza">
+                    <l>Двадцать третьего апреля</l>
+                    <l>В старом парке валит снег,</l>
+                    <l>Я, глазам своим не веря,</l>
+                    <l>Начинаю лыжный бег.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Позабыл на миг про лето,</l>
+                    <l>Что вот-вот должно прийти —</l>
+                    <l>Всё залито белым цветом,</l>
+                    <l>Что успело намести!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Скользя по толще снега,</l>
+                    <l>Не глядя в календарь,</l>
+                    <l>Счастливый от забега</l>
+                    <l>Лечу я с ветром вдаль...</l>
+                    <l>Счастливый от забега</l>
+                    <l>Лечу я с ветром вдаль...</l>
+                </lg>
+                <date when="2024-04-23">
+                    <hi rend="italic">2024-04-23</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>День рождения Алины и Марины</head>
+                <lg type="stanza">
+                    <l>И Алине, и Марине стукнуло по шесть!</l>
+                    <l>Значит, будем веселиться, вкусный тортик есть,</l>
+                    <l>На различных языках петь, стихи читать,</l>
+                    <l>В солнечной Молдове праздник отмечать!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Марине и Алине конструктор дарим мы</l>
+                    <l>Деталей очень много, и все они нужны,</l>
+                    <l>Чтоб было интересно вместе им играть,</l>
+                    <l>Чтоб новому учиться, мозги чтоб развивать.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Пожелаем всем здоровья, счастья и добра,</l>
+                    <l>Чтобы сердце было мудрым, а душа — бодра…</l>
+                    <l>А вот дальше, к сожалению, не придумал я,</l>
+                    <l>Так давайте же все вместе завершим, друзья!</l>
+                </lg>
+                <date when="2024-06-03">
+                    <hi rend="italic">2024-06-03</hi>
+                </date>
+            </div>
+            <div type="poem">
+                <head>Душевный разговор 2025</head>
+                <lg type="stanza">
+                    <l>Если вам тепло на пляже...</l>
+                    <l>Среди ночи, в минус три;</l>
+                    <l>Алкоголь не нужен даже,</l>
+                    <l>Чтоб согреться изнутри;</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Если вы всю ночь не спите,</l>
+                    <l>Новый день перекроив;</l>
+                    <l>Вместе у огня стоите,</l>
+                    <l>На мобильник свой забив (!);</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Если льётся речь рекою;</l>
+                    <l>Сердце с другом бьётся в такт</l>
+                    <l>И выводится свечою...</l>
+                    <l>Значит, точно есть контакт!</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Пусть же год ваш будет светлым,</l>
+                    <l>Ярким, словно тот костёр,</l>
+                    <l>Столь же тёплым и душевным,</l>
+                    <l>Как при встрече разговор!</l>
+                </lg>
+                <date when="2025-01-01">
+                    <hi rend="italic">2025-01-01</hi>
+                </date>
+            </div>
+        </body>
+    </text>
+</TEI>
