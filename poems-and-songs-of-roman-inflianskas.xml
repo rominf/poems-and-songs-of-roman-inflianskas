@@ -8,12 +8,9 @@
             </titleStmt>
             <publicationStmt>
                 <availability status="free">
-                    <licence>Published under a <ref
-                            target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
-                        Commons
-                            Zero 1.0</ref>.</licence>
+                    <licence>Published under a <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0</ref>.</licence>
                 </availability>
-                <date>2025-08-31</date>
+                <date>2025-11-16</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Original poems and songs by Roman Inflianskas.</p>
@@ -174,6 +171,37 @@
 
                     Примечания составлены по материалам из Википедии — свободной энциклопедии и Викисловаря —
                     многоязычного открытого словаря. </div>
+            </div>
+	    <div type="poem">
+                <head>Prune</head>
+                <note><hi rend="italic">Посвящается коллегам в компании Aiven</hi></note>
+                <lg type="stanza">
+                    <l>Копаясь в недрах файлов Prune,</l>
+                    <l>Храните гордое терпенье,</l>
+                    <l>Слагайте из питоньих рун</l>
+                    <l>Своё нелёгкое творенье.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Пускай не остановят вас</l>
+                    <l>Конфиги, слепленные криво,</l>
+                    <l>Да тесты, что упали враз, —</l>
+                    <l>Не ваши, что не справедливо.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Пускай опасна и трудна</l>
+                    <l>Работа, как на минном поле:</l>
+                    <l>Динамики в Python сполна</l>
+                    <l>На проде пасть по божьей воле.</l>
+                </lg>
+                <lg type="stanza">
+                    <l>Товарищ, верь: наступит день —</l>
+                    <l>Мы речь отцов своих услышим,</l>
+                    <l>Познаем программистский дзен</l>
+                    <l>И всё на Rust мы перепишем!</l>
+                </lg>
+                <date when="2021-04-10">
+                    <hi rend="italic">2021-04-10</hi>
+                </date>
             </div>
             <div type="poem">
                 <head>Я</head>
@@ -669,6 +697,47 @@
                 <date when="2025-06-20">
                     <hi rend="italic">2025-06-20</hi>
                 </date>
+            </div>
+            <div type="song">
+              <head>Двери все открыты</head>
+              <note><hi rend="italic">Песня</hi></note>
+              <lg type="stanza">
+                  <l>Самолёт, аэропорт,</l>
+                  <l>В свой todo — список забот,</l>
+                  <l>Vero, SIM, в Migri бланк,</l>
+                  <l>ВНЖ, финский банк...</l>
+                  <l>Для всех закон один —</l>
+                  <l>С sisu всё всегда noniin.</l>
+                  <l>Все на "ты", простота,</l>
+                  <l>Тишина, чистота,</l>
+                  <l>Тысяча озёр, парки,</l>
+                  <l>Рыбный суп, салмиаки,</l>
+                  <l>В обед — шведский стол,</l>
+                  <l>В Pasila — огромный mall,</l>
+                  <l>Игры в Oodi, метал,</l>
+                  <l>Праздник, сауна, танцзал...</l>
+                  <l>Наконец-то паспорт — твой!</l>
+                  <l>Kiitos, Suomi ja taas moi!</l>
+              </lg>
+              <lg type="stanza">
+                  <l>Долог был путь к гражданству!</l>
+                  <l>Финский ты учила,</l>
+                  <l>Падежи зубрила!</l>
+                  <l>Долог был путь к гражданству!</l>
+                  <l>Ты ночей не спала,</l>
+                  <l>YKI тест сдавала.</l>
+              </lg>
+              <lg type="stanza">
+                  <l>Долог был путь к гражданству!</l>
+                  <l>Но теперь ты финка —</l>
+                  <l>Вот и вечеринка!</l>
+                  <l>Долог был путь к гражданству!</l>
+                  <l>Двери все открыты —</l>
+                  <l>Заходи, Анита!</l>
+              </lg>
+              <date when="2025-10-25">
+                  <hi rend="italic">2025-10-25</hi>
+              </date>
             </div>
         </body>
     </text>
